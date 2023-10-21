@@ -41,3 +41,9 @@ Sólo usuarios autenticados podrán acceder a /patata
 Modificar la ruta GET /patata para que devuelva:
 
 { "patata": "muy buena": "usuario": "EMAIL DEL USUARIO AUTENTICADO" }
+
+# Diagramas
+
+[!login](./docs/login.png)
+
+[!auth](./docs/authenticated_request.png)
